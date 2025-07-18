@@ -1,8 +1,10 @@
-# appsettings.json file could be used to store App keys in dot net core
-# Using Microsoft.Extensions.Configuration namespace we have retrive the values from appsettings.json file 
-#    for example var mykeyValue = Configuration["MyKey"];
-# this file could become pretty long
-# However , this is not the most secure way of doing this as once checked in it is saved forever in version control history
+# AppSettings.json file
+- appsettings.json file could be used to store App keys in dot net core
+- Using Microsoft.Extensions.Configuration namespace we have retrive the values from appsettings.json file 
+-    for example var mykeyValue = Configuration["MyKey"];
+- this file could become pretty long
+- However , this is not the most secure way of doing this as once checked in it is saved forever in version control history
+
 # So , Azure provides a couple of alternatives to store secrets
 
 
@@ -23,7 +25,7 @@
                     "AzureADCertThumbprint": "Azure AD Certificate Thumbprint",
                     "AzureADDirectoryId": "Azure AD Directory ID"
                }
-               
+
     - Then in the program.cs file , we can import below namespaces and do some cryptography and load of certificate we require like below
 
                 using System.Security.Cryptography.X509Certificates;
@@ -59,5 +61,3 @@
  Cons
  - complicated
  - provide access to these secrets to users/applications
- - 
-
