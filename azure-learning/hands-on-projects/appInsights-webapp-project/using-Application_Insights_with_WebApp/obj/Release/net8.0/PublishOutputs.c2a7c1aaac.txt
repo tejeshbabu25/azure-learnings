@@ -1,0 +1,7 @@
+C:\Tejesh_Development\Azure\azure-learning\azure-learning\hands-on-projects\appInsights-webapp-project\using-Application_Insights_with_WebApp\obj\Release\net8.0\PubTmp\Out\using-Application_Insights_with_WebApp.exe
+C:\Tejesh_Development\Azure\azure-learning\azure-learning\hands-on-projects\appInsights-webapp-project\using-Application_Insights_with_WebApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Tejesh_Development\Azure\azure-learning\azure-learning\hands-on-projects\appInsights-webapp-project\using-Application_Insights_with_WebApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Tejesh_Development\Azure\azure-learning\azure-learning\hands-on-projects\appInsights-webapp-project\using-Application_Insights_with_WebApp\obj\Release\net8.0\PubTmp\Out\using-Application_Insights_with_WebApp.dll
+C:\Tejesh_Development\Azure\azure-learning\azure-learning\hands-on-projects\appInsights-webapp-project\using-Application_Insights_with_WebApp\obj\Release\net8.0\PubTmp\Out\using-Application_Insights_with_WebApp.deps.json
+C:\Tejesh_Development\Azure\azure-learning\azure-learning\hands-on-projects\appInsights-webapp-project\using-Application_Insights_with_WebApp\obj\Release\net8.0\PubTmp\Out\using-Application_Insights_with_WebApp.runtimeconfig.json
+C:\Tejesh_Development\Azure\azure-learning\azure-learning\hands-on-projects\appInsights-webapp-project\using-Application_Insights_with_WebApp\obj\Release\net8.0\PubTmp\Out\using-Application_Insights_with_WebApp.pdb
