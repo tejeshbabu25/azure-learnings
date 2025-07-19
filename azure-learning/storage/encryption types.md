@@ -40,7 +40,11 @@
             - To use this option we have to create a key valut/ managed HSM
 
 Key Differences:
+
     Data State: At rest, data is stored. In transit, it's actively moving. 
+
     Focus: At-rest encryption protects stored data, while in-transit encryption protects data during transmission. 
+
     Implementation: At-rest encryption involves encrypting storage media, while in-transit encryption involves encrypting network traffic. 
+    
     In summary, both encryption at rest and in transit are essential for comprehensive data security. At-rest encryption safeguards stored data, while in-transit encryption protects data as it travels across networks. 
